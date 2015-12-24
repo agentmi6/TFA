@@ -1,0 +1,5 @@
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Domain\bin\Debug\StarWarsTFA.Domain.dll
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Domain\bin\Debug\StarWarsTFA.Domain.pdb
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Domain\obj\Debug\StarWarsTFA.Domain.csprojResolveAssemblyReference.cache
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Domain\obj\Debug\StarWarsTFA.Domain.dll
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Domain\obj\Debug\StarWarsTFA.Domain.pdb

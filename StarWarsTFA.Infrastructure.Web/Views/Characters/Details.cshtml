@@ -1,0 +1,58 @@
+﻿@model StarWarsTFA.Domain.Character
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Character</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Side.TheForce)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Side.TheForce)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isForceSensitive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isForceSensitive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.imgUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.imgUrl)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

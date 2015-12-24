@@ -1,0 +1,15 @@
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\bin\Debug\StarWarsTFA.Infrastructure.Data.dll.config
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\bin\Debug\StarWarsTFA.Infrastructure.Data.dll
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\bin\Debug\StarWarsTFA.Infrastructure.Data.pdb
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\bin\Debug\StarWarsTFA.Domain.dll
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\bin\Debug\StarWarsTFA.Domain.pdb
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\obj\Debug\StarWarsTFA.Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\obj\Debug\StarWarsTFA.Infrastructure.Data.dll
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\obj\Debug\StarWarsTFA.Infrastructure.Data.pdb
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\obj\Debug\StarWarsTFA.Infrastructure.Data.Migrations.init.resources
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\obj\Debug\StarWarsTFA.Infrastructure.Data.csproj.GenerateResource.Cache
+C:\Users\V\Desktop\asp.net\StarWarsTFA\StarWarsTFA.Infrastructure.Data\obj\Debug\StarWarsTFA.Infrastructure.Data.Migrations.init2.resources

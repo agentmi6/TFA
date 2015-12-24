@@ -1,0 +1,21 @@
+﻿@model IEnumerable<StarWarsTFA.Domain.Character>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-3">
+                <img src="@item.imgUrl" width="350px" height="350px" class="img-responsive"/>
+                <span>@Html.DisplayFor(modelItem => item.Name)</span>
+            </div>
+        }
+    </div>
+</div>
+
